@@ -1,0 +1,111 @@
+*{margin:0;
+padding: 0;
+}
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+#headerSection {
+  background-color: #1b2947;
+  color: white;
+  padding: 20px;
+  font-family: cursive;
+  
+}
+
+#loginSection {
+  padding: 10px;
+  margin: 1cm;
+  
+}
+
+
+body {
+  background: linear-gradient(110deg, #ff9933 , #FFFFFf , #138808 );
+  
+}
+
+#loginbtn {
+  padding: 10px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+
+#reglink {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#mainSection {
+  padding: 10px;
+}
+
+#profileSection {
+  width: 30%;
+  float: left;
+  background-color: white;
+  padding: 20px;
+}
+
+#groupSection {
+  width: 60%;
+  float: right;
+  background-color: white;
+  padding: 20px;
+}
+
+#back-button {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+
+#logout-button {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+.box{
+  display: flexbox;
+  justify-content: flex-start;
+  align-items:center;
+  width: 100vw;
+  height: 20px;
+  background-color: #ffc107;
+  color: #0055ff;
+
+}
+
+
